@@ -1,158 +1,158 @@
-# Awesome-Travel-Expense-Management
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Travel & Expense Management Banner" width="100%" />
+</p>
 
-# Awesome Travel & Expense Management
+# 💳✈️ Awesome Travel & Expense Management
 
-> A curated list of top Travel and Expense Management platforms — both SaaS/Hosted commercial solutions and open-source alternatives for automating expense reports, receipt capture, and spend control.  
-> 🌟 Star this repo if you find it useful! 🌟
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Travel-Expense-Management/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Travel-Expense-Management/graphs/commit-activity)
+[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Travel-Expense-Management?style=social)](https://github.com/ishandutta2007/Awesome-Travel-Expense-Management/stargazers)
+
+> 🌟 **The definitive curated directory of top Travel and Expense Management platforms** — comparing enterprise SaaS spend management suites, corporate card platforms, and self-hosted open-source alternatives for automated expense reporting, receipt scanning OCR, approval workflows, and spend control.  
+> 🌟 *Star this repo if you find it helpful for your business or personal finance workflow!* 🌟
+
+---
+
+## 🔍 SEO & Technology Keywords
+`travel-expense-management` • `spend-management` • `corporate-cards` • `receipt-scanner` • `receipt-ocr` • `expense-tracking` • `splitwise-alternative` • `self-hosted-expenses` • `fintech` • `per-diem` • `budget-management` • `personal-finance` • `erp-integration` • `open-source-fintech`
 
 ---
 
 ## 📋 Table of Contents
 
-- [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-  - [SAP Concur](#sap-concur)
-  - [Expensify](#expensify)
-  - [Ramp](#ramp)
-  - [Brex](#brex)
-  - [Navan (TripActions)](#navan-tripactions)
-  - [Zoho Expense](#zoho-expense)
-  - [Spendesk](#spendesk)
-  - [Pleo](#pleo)
-  - [Rydoo](#rydoo)
-  - [Emburse Certify](#emburse-certify)
-- [Open-Source Software](#-open-source-software)
-  - [Receipt Wrangler](#receipt-wrangler)
-  - [WeaveLedger](#weaveledger)
-  - [ezBookkeeping](#ezbookkeeping)
-  - [TREK (Travel Budget Addon)](#trek-travel-budget-addon)
-  - [Caravella](#caravella)
-  - [My Expenses](#my-expenses)
-- [Comparison at a Glance](#-comparison-at-a-glance)
-- [Contributing](#-contributing)
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS / Commercial Spend & Expense Platforms](#-saas--commercial-spend--expense-platforms)
+- [💻 Open-Source Software & Self-Hosted Alternatives](#-open-source-software--self-hosted-alternatives)
+- [📊 Feature Matrix & Comparison at a Glance](#-feature-matrix--comparison-at-a-glance)
+- [💡 How to Choose the Right Solution](#-how-to-choose-the-right-solution)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ---
 
-## 🟦 SaaS / Hosted Platforms
+## 🌐 Sector Overview & Market Dynamics
 
-Commercial, cloud-hosted Travel and Expense Management platforms. These are not open-source but are included as reference points for feature comparison.
+The global Travel and Expense (T&E) management software market is valued at approximately **$4.1B to $4.6B** (2024–2025) and is projected to expand at a compound annual growth rate (CAGR) of **10.5%–14.2%**, surpassing **$10B+ by the early 2030s**.
 
-### SAP Concur
-**Type:** Enterprise travel and expense management  
-SAP Concur is the long-standing enterprise standard for travel booking and expense reporting, deeply integrated with SAP ERP. It handles travel requisitions, booking, expense capture, policy enforcement, and reimbursement at global scale. Suited for large organizations with complex travel policies and SAP-centric IT landscapes.
-
-### Expensify
-**Type:** Expense reporting with receipt scanning  
-Expensify is a widely adopted expense management platform known for its **SmartScan** receipt capture, automated expense categorization, and corporate card reconciliation. It offers a free tier for individuals and small teams, with paid plans scaling by active users. The platform includes approval workflows, accounting integrations (QuickBooks, Xero, NetSuite), and audit rules.
-
-### Ramp
-**Type:** Finance automation with corporate cards and expense management  
-Ramp combines corporate cards with expense management, bill pay, and accounting automation. It offers **free** expense management and bill pay with revenue generated from card interchange, making it attractive for startups and mid-market companies. Features include receipt matching, policy enforcement, and real-time spend visibility.
-
-### Brex
-**Type:** Corporate cards and spend management  
-Brex provides corporate cards with built-in expense management, receipt capture, and approval workflows. Similar to Ramp, it monetizes primarily through card interchange. Suited for venture-backed startups and scaling companies wanting integrated card and expense tooling.
-
-### Navan (TripActions)
-**Type:** Travel and expense management with booking  
-Navan (formerly TripActions) combines corporate travel booking with expense management in a single platform. It offers real-time policy enforcement, automated expense reconciliation, and travel inventory from major providers. Suited for organizations wanting to unify travel booking and expense reporting.
-
-### Zoho Expense
-**Type:** Expense management within Zoho ecosystem  
-Zoho Expense provides automated expense reporting, receipt scanning, mileage tracking, and approval workflows. It integrates with Zoho Books, Zoho CRM, and other Zoho products, making it a natural choice for organizations already in the Zoho ecosystem. Pricing is per-user with a free tier for small teams.
-
-### Spendesk
-**Type:** Spend management for European finance teams  
-Spendesk provides corporate cards, expense management, invoice management, and approval workflows. It is primarily focused on European markets, with customers concentrated in France [citation:11]. Suited for mid-market companies wanting an all-in-one spend management solution with strong European compliance.
-
-### Pleo
-**Type:** Spend management with smart company cards  
-Pleo provides smart company cards with built-in expense management. It operates across Europe (Austria, Belgium, Denmark, Finland, France, Germany, Ireland, Italy, Netherlands, Norway, Portugal, Spain, Sweden, UK) but **not in India** [citation:6]. Features include receipt capture, automated bookkeeping, and subscription management.
-
-### Rydoo
-**Type:** Travel and expense management  
-Rydoo automates expense reporting and simplifies travel booking for businesses [citation:18]. The company is headquartered in Belgium and has an office in Trivandrum, India [citation:4][citation:10]. Features include expense capture, mileage tracking, policy enforcement, and reimbursement. Suited for mid-market organizations wanting a dedicated T&E tool.
-
-### Emburse Certify
-**Type:** Expense management with audit and compliance  
-Emburse Certify provides expense reporting, receipt capture, and audit services. It is part of the broader Emburse suite (including Chrome River and Abacus) targeting mid-market and enterprise organizations with compliance-heavy requirements.
+The sector exhibits **moderate concentration**:
+- **Enterprise Core (Concentrated):** Legacy ERP-integrated giants (notably **SAP Concur**, alongside Emburse and Coupa) maintain an entrenched stronghold over multinational enterprises with complex compliance, travel booking agreements, and strict accounting workflows.
+- **Fintech & SMB Disruption (Fragmented):** A wave of fast-growing card-first spend platforms (led by **Ramp** at $60B valuation, **Brex**, **Navan**, and European powerhouses like **Pleo** and **Spendesk**) has rapidly disrupted the market. They combine zero-cost baseline tiers, automated smart receipt OCR, and interchange-funded models to aggressively contest mid-market and startup accounts.
 
 ---
 
-## 🟩 Open-Source Software
+## 🏢 SaaS / Commercial Spend & Expense Platforms
 
-Self-hosted, community-driven Travel and Expense Management tools. The open-source ecosystem is **fragmented** — most projects are personal finance trackers, group expense splitters, or travel planners with budget features rather than full enterprise T&E platforms with policy enforcement and reimbursement workflows.
+Commercial cloud platforms sorted in descending order of corporate scale (**Valuation / Annual Revenue**).
 
-### Receipt Wrangler
-**Stack:** (Check repository) | **License:** Open Source  
-Receipt Wrangler is a **self-hosted expense tracking solution** with a mobile app for iOS, focused on taking full control of financial data [citation:14][citation:21]. Features include sharing receipts for collaborative expense tracking, AI-powered receipt data extraction, and community-driven development. Positioned for individuals and small groups wanting self-hosted receipt management rather than enterprise policy enforcement.  
-**Best for:** Users wanting a self-hosted, AI-assisted receipt manager with mobile access for personal or small-team expense tracking.
-
-### WeaveLedger
-**Stack:** Cloudflare Workers (backend) | **License:** Open Source (backend)  
-WeaveLedger is expense tracking, receipt scanning, and revenue reporting for freelancers, solo founders, and small businesses who want financial data on their own server [citation:25]. The **open-source backend** can be self-hosted on Cloudflare Workers (deploy in ~5 minutes). Features include AI receipt scanning (with bring-your-own Anthropic/OpenAI key or WeaveHub AI), expense categorization, PDF expense reports with receipt images, budgets, tax estimates, P&L reports, and bank statement matching. The mobile app is free with a Pro subscription for advanced features.  
-**Best for:** Freelancers and solo founders wanting self-hosted expense tracking with AI receipt scanning and revenue reporting, accepting the Cloudflare Workers deployment model.
-
-### ezBookkeeping
-**Stack:** Go / SQLite/MySQL/PostgreSQL / Docker | **License:** Open Source  
-ezBookkeeping is a lightweight, self-hosted **personal finance app** with a focus on bookkeeping features [citation:2]. Features include receipt image recognition (AI-powered), MCP support for AI integration, two-level accounts and categories, location tracking, multi-currency support, 2FA, and data import/export in many formats. Runs on low-resource devices including Raspberry Pi and NAS. While **not a corporate T&E tool**, it provides robust expense tracking for individuals wanting self-hosted financial control.  
-**Best for:** Individuals wanting a lightweight, self-hosted personal bookkeeping app with receipt OCR and multi-currency support.
-
-### TREK (Travel Budget Addon)
-**Stack:** Node.js / React / SQLite / Docker | **License:** AGPL-3.0  
-TREK is a self-hosted, real-time collaborative **travel planner** with a built-in **Costs addon** for expense tracking [citation:7][citation:9]. The Costs addon provides category-based expenses with pie charts, per-person/per-day splitting, and multi-currency support. TREK is designed for group trip planning rather than corporate expense reimbursement — it helps a group track what a trip costs and who owes what. Features include itinerary planning, reservations, packing lists, and document management.  
-**Best for:** Groups planning trips together who want collaborative budget tracking alongside itinerary planning, not corporate T&E compliance.
-
-### Caravella
-**Stack:** Flutter (multi-platform) | **License:** Open Source  
-Caravella is a **group expense management** app for trips, shared costs, and events . Features include group management, expense tracking with participant assignments, receipt scanning with OCR (on-device), automatic debt calculation (who owes what to whom), and CSV/JSON export. All data is stored locally on-device with no cloud sync required. Multi-platform (Android, iOS, Web, Desktop) via Flutter.  
-**Best for:** Groups wanting privacy-first, on-device expense splitting for trips and shared living situations, without server infrastructure.
-
-### My Expenses
-**Stack:** Android (native) | **License:** Open Source  
-My Expenses is a privacy-friendly **personal finance manager** for Android with open-source transparency [citation:8]. Features include daily expense and budget tracking, investment and portfolio management, smart receipt scanning (OCR), bank integration (FinTS for Germany), and a local web interface for desktop access. Premium features (via Contrib/Extended/Professional keys) add cloud sync, PDF exports, and advanced investment tracking.  
-**Best for:** Android users wanting a feature-rich, privacy-focused personal expense tracker with OCR and optional bank sync, not corporate T&E.
+| 🏢 Product | 💰 Starting Tier Price | 🎁 Free Tier Limit / Trial Specifics | 📈 Company Scale (Valuation / Revenue) | 🎯 Core Focus & Target Audience |
+|:---|:---|:---|:---|:---|
+| **[Ramp](https://ramp.com)** | **$0/user/month** (Free core platform); Ramp Plus starts at **$15/user/month** | **Permanent Free Tier** with unlimited corporate cards, unlimited users, basic expense reimbursement, AP bill pay, and standard accounting sync (monetized via card interchange) | **$60.0B Valuation** (~$2.0B+ ARR) | AI-powered spend management, automated receipt matching, corporate cards, and invoice processing for startups and mid-market enterprises. |
+| **[SAP Concur](https://concur.com)** | **$7.00 per expense report** (Standard Base Tier floor) or ~$8–$18/active user/mo for Enterprise quotes | **30-Day Free Trial** (limited to up to 5 users, includes Concur Expense test environment with mobile app receipt scanning) | **$8.3B Acquisition Valuation** by SAP SE (~$1.5B–$2.0B+ Cloud Run-rate) | Global enterprise benchmark for travel requisitions, automated corporate policy compliance, and deep ERP integration. |
+| **[Navan](https://navan.com)** *(formerly TripActions)* | **$15/active user/month** for expense management beyond free quota | **Permanent Free Tier** for up to **5 active expensing users/month**; travel booking module is 100% free with supplier-commissioned inventory | **$6.9B Public Market Cap** (~$825M+ LTM Revenue) | Unified corporate travel reservation engine with automated real-time expense reconciliation and physical/virtual corporate cards. |
+| **[Brex](https://brex.com)** | **$0/month** (Essentials Plan); Premium/Enterprise starts at **$12/user/month** | **Permanent Free Tier** (Essentials plan for growing teams, includes global corporate cards, expense reimbursements, basic approval workflows, and accounting sync) | **$5.15B Valuation** (~$500M–$700M Gross Revenue) | Scalable spend management, corporate credit cards, and automated expense capture engineered for high-growth tech firms and enterprises. |
+| **[Pleo](https://pleo.io)** | **£39/month** (Starter pack up to 3 users, then ~£10–£14/user/month billed annually) | **14-Day Free Trial** with full platform access, digital receipt uploads, up to 10 test virtual cards, and export simulations | **$4.7B Valuation** (~$140M ARR) | European smart company card solution with real-time automated receipt collection, mileage tracking, and automated VAT reconciliation. |
+| **[Spendesk](https://spendesk.com)** | **€9/user/month** (Starter subscription baseline; custom quote for Scale/Enterprise) | **14-Day Free Trial** with mock budget management, corporate card approval workflow tests, and receipt OCR previews | **$1.5B Valuation** (~$90M–$110M ARR) | All-in-one corporate spend, digital invoice approvals, company cards, and budget tracking designed for European finance teams. |
+| **[Zoho Expense](https://zoho.com/expense)** | **$3.00/user/month** (Standard plan billed annually, min. 3 users) | **Permanent Free Tier** limited strictly to **3 users**, 5 GB receipt cloud storage, and **20 automated AI receipt scans/user/month** | **Part of Zoho Corp** ($1.4B+ Annual Revenue, bootstrapped) | Cost-effective automated expense reporting, mileage tracking, and per-diem management within the Zoho cloud business ecosystem. |
+| **[Emburse Certify](https://certify.com)** | **$8.00/user/month** (Standard baseline floor, starting at ~$250/mo minimum package) | **14-Day Free Trial** with full access to Certify mobile app receipt scanning, policy rule simulations, and sample approval hierarchies | **Part of Emburse** (~$300M+ Annual Revenue, backed by Symphony Technology Group) | Robust travel expense compliance, automated audit algorithms, and integrated receipt OCR for regulated mid-market and enterprise firms. |
+| **[Expensify](https://expensify.com)** | **$5.00/user/month** (Collect plan with Expensify Card); $9/user/mo standalone | **Permanent Free Tier** (Submit workspace for individuals and micro-teams: unlimited receipt SmartScans, mileage tracking, and basic report export) | **$217M Public Market Cap** (~$140M TTM Revenue) | User-friendly SmartScan receipt transcription, corporate card reconciliation, and automated chat-first reimbursement workflows. |
+| **[Rydoo](https://rydoo.com)** | **$10/user/month** (Basic plan, billed annually with a 5-user minimum commitment) | **14-Day Free Trial** (no credit card required, includes unlimited mobile receipt OCR scans and standard approval pipeline testing) | **Private / PE-backed** (~$35M–$60M estimated ARR) | Real-time travel expense reporting, per-diem calculation, mileage tracking, and multi-country tax compliance. |
 
 ---
 
-## 📊 Comparison at a Glance
+## 💻 Open-Source Software & Self-Hosted Alternatives
 
-| Software | License | Type | Receipt OCR | Policy/Approval | Self-Hosted | Best For |
-|----------|---------|------|-------------|-----------------|-------------|----------|
-| **SAP Concur** | Proprietary | Enterprise T&E | ✅ | ✅ | ❌ | Large enterprise + SAP |
-| **Expensify** | Proprietary | Expense reporting | ✅ SmartScan | ✅ | ❌ | SMB to mid-market |
-| **Ramp** | Proprietary | Cards + expenses | ✅ | ✅ | ❌ | Startups (free) |
-| **Brex** | Proprietary | Cards + expenses | ✅ | ✅ | ❌ | Venture-backed startups |
-| **Navan** | Proprietary | Travel + expense | ✅ | ✅ | ❌ | Unified travel booking + T&E |
-| **Zoho Expense** | Proprietary | Expense management | ✅ | ✅ | ❌ | Zoho ecosystem |
-| **Spendesk** | Proprietary | Spend management | ✅ | ✅ | ❌ | European mid-market |
-| **Pleo** | Proprietary | Cards + expenses | ✅ | ✅ | ❌ | European SMBs (not India) |
-| **Rydoo** | Proprietary | T&E management | ✅ | ✅ | ❌ | Mid-market (Belgium HQ) |
-| **Receipt Wrangler** | Open Source | Receipt tracking | ✅ AI | ❌ | ✅ | Self-hosted receipt management |
-| **WeaveLedger** | Open Source | Freelancer expenses | ✅ AI | ❌ | ✅ (Cloudflare) | Freelancers + revenue |
-| **ezBookkeeping** | Open Source | Personal bookkeeping | ✅ AI | ❌ | ✅ | Personal finance |
-| **TREK** | AGPL-3.0 | Travel planner + costs | ❌ | ❌ | ✅ | Group trip budgets |
-| **Caravella** | Open Source | Group expense split | ✅ OCR | ❌ | ✅ (local) | On-device group splitting |
-| **My Expenses** | Open Source | Personal finance | ✅ OCR | ❌ | ✅ (local) | Android personal tracking |
+Self-hosted, community-driven, and open-source solutions for managing travel budgets, receipt scanning, shared group trip expenses, and personal finance. Sorted in descending order of **GitHub Stars** ⭐.
+
+| 💻 Repository | ⭐ Stars | 🛠️ Tech Stack & Architecture | 📜 License | 🎯 Target Use Case & Core Highlights |
+|:---|:---|:---|:---|:---|
+| **[actualbudget/actual](https://github.com/actualbudget/actual)** | [![GitHub stars](https://img.shields.io/github/stars/actualbudget/actual?style=social&color=white)](https://github.com/actualbudget/actual/stargazers) | TypeScript, Node.js, SQLite, React, Electron | **MIT** | 100% local-first, zero-knowledge sync personal finance and envelope budgeting platform. Unmatched for private offline travel expenditure tracking and multi-currency bank account reconciliation. |
+| **[firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)** | [![GitHub stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers) | PHP (Laravel), MySQL/PostgreSQL, Docker | **AGPL-3.0** | Comprehensive self-hosted double-entry bookkeeping engine with advanced rule automations, split transactions, foreign currency conversion, and companion receipt scanning tools. |
+| **[liketrek/TREK](https://github.com/liketrek/TREK)** | [![GitHub stars](https://img.shields.io/github/stars/liketrek/TREK?style=social&color=white)](https://github.com/liketrek/TREK/stargazers) | Node.js, React, SQLite, Docker | **AGPL-3.0** | Real-time collaborative travel itinerary planner featuring a dedicated **Costs Addon** for trip budgets, per-person/per-day expense breakdowns, multi-currency splitting, and packing checklists. |
+| **[mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping)** | [![GitHub stars](https://img.shields.io/github/stars/mayswind/ezbookkeeping?style=social&color=white)](https://github.com/mayswind/ezbookkeeping/stargazers) | Go, SQLite/MySQL/PostgreSQL, Vue.js, Docker | **MIT** | Lightweight, responsive bookkeeping app supporting AI-powered receipt image recognition, Model Context Protocol (MCP) integrations, multi-currency tracking, and 2FA authentication. |
+| **[spliit-app/spliit](https://github.com/spliit-app/spliit)** | [![GitHub stars](https://img.shields.io/github/stars/spliit-app/spliit?style=social&color=white)](https://github.com/spliit-app/spliit/stargazers) | Next.js, React, TypeScript, Prisma, PostgreSQL | **MIT** | Modern, lightning-fast self-hosted alternative to Splitwise. Built specifically for group vacations, roommate living, and travel costs with zero mandatory user registration. |
+| **[oss-apps/split-pro](https://github.com/oss-apps/split-pro)** | [![GitHub stars](https://img.shields.io/github/stars/oss-apps/split-pro?style=social&color=white)](https://github.com/oss-apps/split-pro/stargazers) | Node.js, Next.js, Prisma, PostgreSQL | **MIT** | Full-featured open-source group expense splitter designed for shared holiday trips, multi-currency conversion, settlement algorithms, and push notifications. |
+| **[mtotschnig/MyExpenses](https://github.com/mtotschnig/MyExpenses)** | [![GitHub stars](https://img.shields.io/github/stars/mtotschnig/MyExpenses?style=social&color=white)](https://github.com/mtotschnig/MyExpenses/stargazers) | Java, Android Native, SQLite | **GPL-3.0** | Privacy-respecting Android expense and budget manager equipped with smart OCR receipt capture, German FinTS banking integration, and encrypted multi-device synchronization. |
+| **[Receipt-Wrangler/receipt-wrangler](https://github.com/Receipt-Wrangler/receipt-wrangler)** | [![GitHub stars](https://img.shields.io/github/stars/Receipt-Wrangler/receipt-wrangler?style=social&color=white)](https://github.com/Receipt-Wrangler/receipt-wrangler/stargazers) | Go, Angular, Flutter (iOS & Android), Docker | **GPL-3.0** | Dedicated self-hosted receipt repository and expense manager. Features AI receipt OCR extraction, PDF archiving, itemized tag management, and shared team receipt access. |
+| **[1oannis/budget-lens](https://github.com/1oannis/budget-lens)** | [![GitHub stars](https://img.shields.io/github/stars/1oannis/budget-lens?style=social&color=white)](https://github.com/1oannis/budget-lens/stargazers) | Python, FastAPI, React, Tesseract/LLM OCR | **MIT** | Lightweight self-hosted receipt scanner and expense ledger powered by local OCR models to digitize paper receipts into structured monthly expense spreadsheets. |
+| **[calca/caravella](https://github.com/calca/caravella)** | [![GitHub stars](https://img.shields.io/github/stars/calca/caravella?style=social&color=white)](https://github.com/calca/caravella/stargazers) | Flutter, Dart (Desktop, Web & Mobile) | **MIT** | Local-first group travel cost manager with on-device receipt scanning, automatic debt simplification (who owes what to whom), and zero telemetry. |
+| **[WeaveHubHQ/weaveledger-oss](https://github.com/WeaveHubHQ/weaveledger-oss)** | [![GitHub stars](https://img.shields.io/github/stars/WeaveHubHQ/weaveledger-oss?style=social&color=white)](https://github.com/WeaveHubHQ/weaveledger-oss/stargazers) | TypeScript, Cloudflare Workers, D1 SQLite | **MIT** | Serverless backend for solo founders and freelancers to track tax estimates, AI receipt categorization, and PDF expense reports deployed on Cloudflare Workers edge. |
+
+---
+
+## 📊 Feature Matrix & Comparison at a Glance
+
+| Software Solution | Category | License Model | AI / OCR Receipt Scanner | Corporate Policy & Approval | Self-Hosted Option | Best Fit Scenario |
+|:---|:---|:---|:---:|:---:|:---:|:---|
+| **Ramp** | Commercial SaaS | Proprietary (Free core) | ✅ Included | ✅ Advanced | ❌ | Startups & mid-market companies wanting card + AP spend automation |
+| **SAP Concur** | Commercial SaaS | Proprietary | ✅ Included | ✅ Enterprise Grade | ❌ | Multinationals requiring strict ERP and flight/hotel compliance |
+| **Navan** | Commercial SaaS | Proprietary (Freemium) | ✅ Included | ✅ Advanced | ❌ | Unified travel bookings combined with automated expense reports |
+| **Brex** | Commercial SaaS | Proprietary (Freemium) | ✅ Included | ✅ Advanced | ❌ | High-growth startups needing corporate credit and venture banking |
+| **Pleo** | Commercial SaaS | Proprietary | ✅ Included | ✅ Advanced | ❌ | European SMBs needing smart physical cards and VAT reconciliation |
+| **Spendesk** | Commercial SaaS | Proprietary | ✅ Included | ✅ Advanced | ❌ | European finance teams wanting centralized corporate spend control |
+| **Zoho Expense** | Commercial SaaS | Proprietary (Freemium) | ✅ Included | ✅ Standard | ❌ | Companies already invested in Zoho Books, CRM, and Zoho Workplace |
+| **Emburse Certify** | Commercial SaaS | Proprietary | ✅ Included | ✅ Enterprise Grade | ❌ | Organizations requiring deep compliance audits and ERP sync |
+| **Expensify** | Commercial SaaS | Proprietary (Freemium) | ✅ SmartScan | ✅ Standard | ❌ | Fast receipt scanning and reimbursement workflows for SMBs |
+| **Rydoo** | Commercial SaaS | Proprietary | ✅ Included | ✅ Advanced | ❌ | Mid-market teams needing per-diems and real-time expense approvals |
+| **Actual Budget** | Open Source | MIT | ❌ | ❌ | ✅ | Privacy-first local budgeting and offline travel expenditure logs |
+| **Firefly III** | Open Source | AGPL-3.0 | ⚠️ via add-on | ❌ | ✅ | Advanced personal and small business double-entry bookkeeping |
+| **TREK** | Open Source | AGPL-3.0 | ❌ | ❌ | ✅ | Group travel itinerary planning with collaborative cost splitting |
+| **ezBookkeeping** | Open Source | MIT | ✅ AI-driven | ❌ | ✅ | Lightweight personal/freelancer bookkeeping with receipt scanning |
+| **Spliit** | Open Source | MIT | ❌ | ❌ | ✅ | Modern, zero-login group vacation bill splitting (Splitwise alternative) |
+| **SplitPro** | Open Source | MIT | ❌ | ❌ | ✅ | Multi-currency travel debt calculation and group settlement app |
+| **My Expenses** | Open Source | GPL-3.0 | ✅ On-device OCR | ❌ | ✅ (Android/Local) | Android users needing private mobile expense and receipt logs |
+| **Receipt Wrangler** | Open Source | GPL-3.0 | ✅ AI-powered | ❌ | ✅ | Complete self-hosted receipt image/PDF archiving and team tagging |
+| **BudgetLens** | Open Source | MIT | ✅ Local/LLM OCR | ❌ | ✅ | Micro self-hosted receipt parsing directly into spreadsheets |
+| **Caravella** | Open Source | MIT | ✅ On-device OCR | ❌ | ✅ (Local-first) | Offline on-device shared trip cost calculation and receipt capture |
+| **WeaveLedger** | Open Source | MIT | ✅ Edge AI | ❌ | ✅ (Cloudflare) | Serverless expense reports and tax estimations for freelancers |
+
+---
+
+## 💡 How to Choose the Right Solution
+
+1. **For Enterprise & Strict Policy Audits:**  
+   If you have thousands of traveling employees, integrate directly with SAP or Oracle ERP, and need multi-tiered legal compliance, **SAP Concur** and **Emburse Certify** remain the industry standards.
+
+2. **For High-Growth Startups & Zero-Subscription Fees:**  
+   If you operate primarily in the US and want corporate credit cards with automated receipt matching and spend policies without software licensing overhead, **Ramp** or **Brex** provide best-in-class value funded via interchange fees.
+
+3. **For Combined Travel Booking + Spend Management:**  
+   If you want employees to book flights, trains, and hotels within policy while automatically logging expenses, **Navan** unifies booking and expenses under one roof.
+
+4. **For European Teams & VAT Compliance:**  
+   For businesses based in the UK and EEA needing physical corporate cards with local currency processing and automated VAT extraction, **Pleo** and **Spendesk** are market leaders.
+
+5. **For Privacy, Group Vacations & Self-Hosting:**  
+   - If planning group trips with friends and calculating who owes what: Use **[Spliit](https://github.com/spliit-app/spliit)** or **[TREK](https://github.com/liketrek/TREK)**.
+   - If archiving receipts on your personal server: Deploy **[Receipt Wrangler](https://github.com/Receipt-Wrangler/receipt-wrangler)**.
+   - For total financial sovereignty and offline budgeting: Host **[Actual Budget](https://github.com/actualbudget/actual)** or **[Firefly III](https://github.com/firefly-iii/firefly-iii)**.
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you know of an open-source Travel or Expense Management tool that should be listed here, please open a pull request with:
+Contributions, project suggestions, and pull requests are warmly welcomed! 
 
-- Project name and URL
-- Brief description (1–2 sentences)
-- Stack and license
-- Why it stands out
+If you know of an outstanding open-source Travel or Expense Management project or if commercial pricing models update, please submit a pull request:
 
-Please ensure the project is actively maintained (releases within the last 12 months) and genuinely open-source. Note that the open-source ecosystem for **enterprise T&E with policy enforcement and reimbursement workflows** is essentially nonexistent — available projects focus on personal finance, group expense splitting, or receipt management. No open-source tool currently replicates SAP Concur or Expensify's corporate compliance features.
+1. 🍴 Fork the repository.
+2. 🌿 Create a new feature branch (`git checkout -b feature/add-new-project`).
+3. 📝 Add your entry (please maintain chronological or alphabetical ordering and check live GitHub star counts).
+4. 🚀 Open a Pull Request detailing why the software deserves to be included.
+
+> ℹ️ *Note on Corporate Open-Source:* Full enterprise-grade T&E software with automated per-diem regulatory tables, corporate card feeds, and managerial ERP approval chains is dominated by SaaS providers. Open-source solutions excel primarily in personal bookkeeping, group vacation cost splitting, and self-hosted receipt archiving.
 
 ---
 
 ## 📄 License
 
-This list is released under CC0 1.0 Universal (Public Domain). The software projects listed retain their respective licenses.
+This repository and curated list are released under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) (CC0 1.0) Public Domain Dedication.  
+Individual software products and repositories listed retain their respective commercial or open-source licenses.
 
 ---
 
-⭐ **If this list helped you discover a useful tool, please star the repo!** ⭐
+<p align="center">
+  <b>🌟 Star this repository if you found it useful! 🌟</b><br>
+  <sub>Maintained with ❤️ by the community.</sub>
+</p>
