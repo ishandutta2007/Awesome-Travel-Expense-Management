@@ -4,11 +4,13 @@
 
 # 💳✈️ Awesome Travel & Expense Management
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Travel-Expense-Management/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Travel-Expense-Management/graphs/commit-activity)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Travel-Expense-Management?style=social)](https://github.com/ishandutta2007/Awesome-Travel-Expense-Management/stargazers)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🌟 **The definitive curated directory of top Travel and Expense Management platforms** — comparing enterprise SaaS spend management suites, corporate card platforms, and self-hosted open-source alternatives for automated expense reporting, receipt scanning OCR, approval workflows, and spend control.  
 > 🌟 *Star this repo if you find it helpful for your business or personal finance workflow!* 🌟
@@ -27,6 +29,8 @@
 - [💻 Open-Source Software & Self-Hosted Alternatives](#-open-source-software--self-hosted-alternatives)
 - [📊 Feature Matrix & Comparison at a Glance](#-feature-matrix--comparison-at-a-glance)
 - [💡 How to Choose the Right Solution](#-how-to-choose-the-right-solution)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -127,6 +131,26 @@ Self-hosted, community-driven, and open-source solutions for managing travel bud
    - If planning group trips with friends and calculating who owes what: Use **[Spliit](https://github.com/spliit-app/spliit)** or **[TREK](https://github.com/liketrek/TREK)**.
    - If archiving receipts on your personal server: Deploy **[Receipt Wrangler](https://github.com/Receipt-Wrangler/receipt-wrangler)**.
    - For total financial sovereignty and offline budgeting: Host **[Actual Budget](https://github.com/actualbudget/actual)** or **[Firefly III](https://github.com/firefly-iii/firefly-iii)**.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring this curated repository! If this resource saved your company time, assisted with your travel budgeting, or introduced you to your next favorite spend tool:
+
+- ⭐ **Star this repository** to help others find it.
+- 🍴 **Fork it** to customize and keep track of your team's tools.
+- 📢 **Share it** on social media, developer forums, or with your finance team.
+- ☕ **Buy me a coffee / Sponsor:** If you'd like to back ongoing open-source curation and maintenance, consider sponsoring on GitHub:  
+  [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-ishandutta2007-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/ishandutta2007)
+
+Your support and community contributions are deeply appreciated! ❤️
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Travel-Expense-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Travel-Expense-Management&type=date&legend=top-left)
 
 ---
 
